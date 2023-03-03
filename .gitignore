@@ -14,3 +14,7 @@ stamp-*
 src/blsctlib
 driver
 *~
+compile
+libtool
+ltmain.sh
+
